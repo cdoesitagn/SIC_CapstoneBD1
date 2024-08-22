@@ -1,2 +1,1 @@
-# StockPredictionModel
-Final Report | Introduction to AI
+SIC_Capstone

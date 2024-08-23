@@ -1,0 +1,129 @@
+2024-08-10 09:42:10,514 - INFO - Time ok
+2024-08-10 10:10:16,594 - INFO - Time ok
+2024-08-10 10:10:16,596 - INFO - Start downloading data symbols ['CTG', 'SSB', 'MBB', 'TPB', 'VIB', 'HDB', 'BID', 'SHB', 'TCB', 'STB', 'VCB', 'VPB'] from CAFEF, start: 10/08/2024, end: 10/08/2024!
+2024-08-10 10:10:16,597 - INFO - Start downloading data symbols ['SAB'] from CAFEF, start: 10/08/2024, end: 10/08/2024!
+2024-08-10 10:10:16,599 - INFO - Start downloading data symbols ['GVR'] from CAFEF, start: 10/08/2024, end: 10/08/2024!
+2024-08-10 10:10:16,601 - INFO - Start downloading data symbols ['POW'] from CAFEF, start: 10/08/2024, end: 10/08/2024!
+2024-08-10 10:10:16,602 - INFO - Start downloading data symbols ['SSI'] from CAFEF, start: 10/08/2024, end: 10/08/2024!
+2024-08-10 10:10:16,606 - INFO - Start downloading data symbols ['MSN', 'VNM'] from CAFEF, start: 10/08/2024, end: 10/08/2024!
+2024-08-10 10:10:16,609 - INFO - Start downloading data symbols ['GAS'] from CAFEF, start: 10/08/2024, end: 10/08/2024!
+2024-08-10 10:10:16,615 - INFO - Start downloading data symbols ['MWG'] from CAFEF, start: 10/08/2024, end: 10/08/2024!
+2024-08-10 10:10:16,619 - INFO - Start downloading data symbols ['HPG'] from CAFEF, start: 10/08/2024, end: 10/08/2024!
+2024-08-10 10:10:16,620 - INFO - Start downloading data symbols ['BVH'] from CAFEF, start: 10/08/2024, end: 10/08/2024!
+2024-08-10 10:10:16,622 - INFO - Start downloading data symbols ['PLX'] from CAFEF, start: 10/08/2024, end: 10/08/2024!
+2024-08-10 10:10:16,623 - INFO - Start downloading data symbols ['BCM', 'VHM', 'VRE', 'VIC'] from CAFEF, start: 10/08/2024, end: 10/08/2024!
+2024-08-10 10:10:16,628 - INFO - Start downloading data symbols ['FPT'] from CAFEF, start: 10/08/2024, end: 10/08/2024!
+2024-08-10 10:10:16,634 - INFO - Start downloading data symbols ['VJC'] from CAFEF, start: 10/08/2024, end: 10/08/2024!
+2024-08-10 10:10:16,770 - INFO - Start downloading data symbols ['SAB'] from CAFEF, start: 10/08/2024, end: 10/08/2024!
+2024-08-10 10:10:16,772 - INFO - Start downloading data symbols ['POW'] from CAFEF, start: 10/08/2024, end: 10/08/2024!
+2024-08-10 10:10:16,777 - INFO - Start downloading data symbols ['SSI'] from CAFEF, start: 10/08/2024, end: 10/08/2024!
+2024-08-10 10:10:16,783 - INFO - Start downloading data symbols ['PLX'] from CAFEF, start: 10/08/2024, end: 10/08/2024!
+2024-08-10 10:10:16,785 - INFO - Start downloading data symbols ['GAS'] from CAFEF, start: 10/08/2024, end: 10/08/2024!
+2024-08-10 10:10:16,789 - INFO - Start downloading data symbols ['FPT'] from CAFEF, start: 10/08/2024, end: 10/08/2024!
+2024-08-10 10:10:16,792 - INFO - Start downloading data symbols ['MWG'] from CAFEF, start: 10/08/2024, end: 10/08/2024!
+2024-08-10 10:10:16,796 - INFO - Start downloading data symbols ['BVH'] from CAFEF, start: 10/08/2024, end: 10/08/2024!
+2024-08-10 10:10:16,800 - INFO - Start downloading data symbols ['HPG'] from CAFEF, start: 10/08/2024, end: 10/08/2024!
+2024-08-10 10:10:16,806 - INFO - Start downloading data symbols ['VJC'] from CAFEF, start: 10/08/2024, end: 10/08/2024!
+2024-08-10 10:10:16,814 - INFO - Start downloading data symbols ['GVR'] from CAFEF, start: 10/08/2024, end: 10/08/2024!
+2024-08-10 10:10:16,873 - INFO - Download done at 10:10:16.873863
+2024-08-10 10:10:16,884 - INFO - Download done at 10:10:16.884534
+2024-08-10 10:10:16,886 - INFO - Download done at 10:10:16.886241
+2024-08-10 10:10:16,902 - INFO - Download done at 10:10:16.902505
+2024-08-10 10:10:16,905 - INFO - Download done at 10:10:16.905305
+2024-08-10 10:10:16,924 - INFO - Download done at 10:10:16.924462
+2024-08-10 10:10:16,938 - INFO - Download done at 10:10:16.938707
+2024-08-10 10:10:16,958 - INFO - Download done at 10:10:16.958393
+2024-08-10 10:10:16,988 - INFO - Download done at 10:10:16.988460
+2024-08-10 10:10:17,008 - INFO - Download done at 10:10:17.008714
+2024-08-10 10:10:17,012 - INFO - Download done at 10:10:17.012561
+2024-08-10 10:10:17,016 - INFO - Start downloading data symbols ['MSN', 'VNM'] from CAFEF, start: 10/08/2024, end: 10/08/2024!
+2024-08-10 10:10:17,070 - INFO - Start downloading data symbols ['BCM', 'VHM', 'VRE', 'VIC'] from CAFEF, start: 10/08/2024, end: 10/08/2024!
+2024-08-10 10:10:17,138 - INFO - Download done at 10:10:17.138902
+2024-08-10 10:10:17,349 - INFO - Download done at 10:10:17.349959
+2024-08-10 10:10:17,613 - INFO - Start downloading data symbols ['CTG', 'SSB', 'MBB', 'TPB', 'VIB', 'HDB', 'BID', 'SHB', 'TCB', 'STB', 'VCB', 'VPB'] from CAFEF, start: 10/08/2024, end: 10/08/2024!
+2024-08-10 10:10:18,537 - INFO - Download done at 10:10:18.537320
+2024-08-10 10:11:17,609 - INFO - Start downloading data symbols ['SAB'] from CAFEF, start: 10/08/2024, end: 10/08/2024!
+2024-08-10 10:11:17,616 - INFO - Start downloading data symbols ['SSI'] from CAFEF, start: 10/08/2024, end: 10/08/2024!
+2024-08-10 10:11:17,616 - INFO - Start downloading data symbols ['GVR'] from CAFEF, start: 10/08/2024, end: 10/08/2024!
+2024-08-10 10:11:17,616 - INFO - Start downloading data symbols ['GAS'] from CAFEF, start: 10/08/2024, end: 10/08/2024!
+2024-08-10 10:11:17,617 - INFO - Start downloading data symbols ['MSN', 'VNM'] from CAFEF, start: 10/08/2024, end: 10/08/2024!
+2024-08-10 10:11:17,617 - INFO - Start downloading data symbols ['POW'] from CAFEF, start: 10/08/2024, end: 10/08/2024!
+2024-08-10 10:11:17,618 - INFO - Start downloading data symbols ['MWG'] from CAFEF, start: 10/08/2024, end: 10/08/2024!
+2024-08-10 10:11:17,627 - INFO - Start downloading data symbols ['HPG'] from CAFEF, start: 10/08/2024, end: 10/08/2024!
+2024-08-10 10:11:17,628 - INFO - Start downloading data symbols ['PLX'] from CAFEF, start: 10/08/2024, end: 10/08/2024!
+2024-08-10 10:11:17,628 - INFO - Start downloading data symbols ['BCM', 'VHM', 'VRE', 'VIC'] from CAFEF, start: 10/08/2024, end: 10/08/2024!
+2024-08-10 10:11:17,629 - INFO - Start downloading data symbols ['BVH'] from CAFEF, start: 10/08/2024, end: 10/08/2024!
+2024-08-10 10:11:17,631 - INFO - Start downloading data symbols ['FPT'] from CAFEF, start: 10/08/2024, end: 10/08/2024!
+2024-08-10 10:11:17,642 - INFO - Start downloading data symbols ['VJC'] from CAFEF, start: 10/08/2024, end: 10/08/2024!
+2024-08-10 10:11:17,673 - INFO - Start downloading data symbols ['SAB'] from CAFEF, start: 10/08/2024, end: 10/08/2024!
+2024-08-10 10:11:17,716 - INFO - Start downloading data symbols ['GVR'] from CAFEF, start: 10/08/2024, end: 10/08/2024!
+2024-08-10 10:11:17,744 - INFO - Start downloading data symbols ['SSI'] from CAFEF, start: 10/08/2024, end: 10/08/2024!
+2024-08-10 10:11:17,765 - INFO - Start downloading data symbols ['GAS'] from CAFEF, start: 10/08/2024, end: 10/08/2024!
+2024-08-10 10:11:17,766 - INFO - Start downloading data symbols ['POW'] from CAFEF, start: 10/08/2024, end: 10/08/2024!
+2024-08-10 10:11:17,767 - INFO - Start downloading data symbols ['MWG'] from CAFEF, start: 10/08/2024, end: 10/08/2024!
+2024-08-10 10:11:17,768 - INFO - Start downloading data symbols ['PLX'] from CAFEF, start: 10/08/2024, end: 10/08/2024!
+2024-08-10 10:11:17,771 - INFO - Start downloading data symbols ['HPG'] from CAFEF, start: 10/08/2024, end: 10/08/2024!
+2024-08-10 10:11:17,780 - INFO - Start downloading data symbols ['BVH'] from CAFEF, start: 10/08/2024, end: 10/08/2024!
+2024-08-10 10:11:17,801 - INFO - Download done at 10:11:17.801129
+2024-08-10 10:11:17,802 - INFO - Start downloading data symbols ['VJC'] from CAFEF, start: 10/08/2024, end: 10/08/2024!
+2024-08-10 10:11:17,824 - INFO - Start downloading data symbols ['FPT'] from CAFEF, start: 10/08/2024, end: 10/08/2024!
+2024-08-10 10:11:17,843 - INFO - Download done at 10:11:17.843811
+2024-08-10 10:11:17,872 - INFO - Start downloading data symbols ['MSN', 'VNM'] from CAFEF, start: 10/08/2024, end: 10/08/2024!
+2024-08-10 10:11:17,895 - INFO - Download done at 10:11:17.895746
+2024-08-10 10:11:17,918 - INFO - Download done at 10:11:17.918974
+2024-08-10 10:11:17,939 - INFO - Download done at 10:11:17.939139
+2024-08-10 10:11:17,940 - INFO - Download done at 10:11:17.940901
+2024-08-10 10:11:17,977 - INFO - Download done at 10:11:17.977643
+2024-08-10 10:11:17,979 - INFO - Download done at 10:11:17.979535
+2024-08-10 10:11:17,981 - INFO - Download done at 10:11:17.981516
+2024-08-10 10:11:17,982 - INFO - Download done at 10:11:17.982726
+2024-08-10 10:11:17,985 - INFO - Download done at 10:11:17.985429
+2024-08-10 10:11:18,072 - INFO - Start downloading data symbols ['BCM', 'VHM', 'VRE', 'VIC'] from CAFEF, start: 10/08/2024, end: 10/08/2024!
+2024-08-10 10:11:18,092 - INFO - Download done at 10:11:18.091950
+2024-08-10 10:11:18,336 - INFO - Download done at 10:11:18.336730
+2024-08-10 10:11:18,600 - INFO - Start downloading data symbols ['CTG', 'SSB', 'MBB', 'TPB', 'VIB', 'HDB', 'BID', 'SHB', 'TCB', 'STB', 'VCB', 'VPB'] from CAFEF, start: 10/08/2024, end: 10/08/2024!
+2024-08-10 10:11:19,412 - INFO - Start downloading data symbols ['CTG', 'SSB', 'MBB', 'TPB', 'VIB', 'HDB', 'BID', 'SHB', 'TCB', 'STB', 'VCB', 'VPB'] from CAFEF, start: 10/08/2024, end: 10/08/2024!
+2024-08-10 10:11:20,228 - INFO - Download done at 10:11:20.228830
+2024-08-10 10:12:18,779 - INFO - Time ok
+2024-08-10 10:12:18,781 - INFO - Start downloading data symbols ['CTG', 'SSB', 'MBB', 'TPB', 'VIB', 'HDB', 'BID', 'SHB', 'TCB', 'STB', 'VCB', 'VPB'] from CAFEF, start: 10/08/2024, end: 10/08/2024!
+2024-08-10 10:12:18,783 - INFO - Start downloading data symbols ['SAB'] from CAFEF, start: 10/08/2024, end: 10/08/2024!
+2024-08-10 10:12:18,784 - INFO - Start downloading data symbols ['GVR'] from CAFEF, start: 10/08/2024, end: 10/08/2024!
+2024-08-10 10:12:18,785 - INFO - Start downloading data symbols ['POW'] from CAFEF, start: 10/08/2024, end: 10/08/2024!
+2024-08-10 10:12:18,788 - INFO - Start downloading data symbols ['SSI'] from CAFEF, start: 10/08/2024, end: 10/08/2024!
+2024-08-10 10:12:18,795 - INFO - Start downloading data symbols ['MSN', 'VNM'] from CAFEF, start: 10/08/2024, end: 10/08/2024!
+2024-08-10 10:12:18,796 - INFO - Start downloading data symbols ['GAS'] from CAFEF, start: 10/08/2024, end: 10/08/2024!
+2024-08-10 10:12:18,798 - INFO - Start downloading data symbols ['MWG'] from CAFEF, start: 10/08/2024, end: 10/08/2024!
+2024-08-10 10:12:18,800 - INFO - Start downloading data symbols ['HPG'] from CAFEF, start: 10/08/2024, end: 10/08/2024!
+2024-08-10 10:12:18,802 - INFO - Start downloading data symbols ['BVH'] from CAFEF, start: 10/08/2024, end: 10/08/2024!
+2024-08-10 10:12:18,808 - INFO - Start downloading data symbols ['PLX'] from CAFEF, start: 10/08/2024, end: 10/08/2024!
+2024-08-10 10:12:18,811 - INFO - Start downloading data symbols ['BCM', 'VHM', 'VRE', 'VIC'] from CAFEF, start: 10/08/2024, end: 10/08/2024!
+2024-08-10 10:12:18,816 - INFO - Start downloading data symbols ['FPT'] from CAFEF, start: 10/08/2024, end: 10/08/2024!
+2024-08-10 10:12:18,819 - INFO - Start downloading data symbols ['VJC'] from CAFEF, start: 10/08/2024, end: 10/08/2024!
+2024-08-10 10:12:18,886 - INFO - Start downloading data symbols ['SSI'] from CAFEF, start: 10/08/2024, end: 10/08/2024!
+2024-08-10 10:12:18,916 - INFO - Start downloading data symbols ['PLX'] from CAFEF, start: 10/08/2024, end: 10/08/2024!
+2024-08-10 10:12:18,966 - INFO - Start downloading data symbols ['BVH'] from CAFEF, start: 10/08/2024, end: 10/08/2024!
+2024-08-10 10:12:18,969 - INFO - Start downloading data symbols ['POW'] from CAFEF, start: 10/08/2024, end: 10/08/2024!
+2024-08-10 10:12:18,973 - INFO - Start downloading data symbols ['FPT'] from CAFEF, start: 10/08/2024, end: 10/08/2024!
+2024-08-10 10:12:18,982 - INFO - Start downloading data symbols ['GVR'] from CAFEF, start: 10/08/2024, end: 10/08/2024!
+2024-08-10 10:12:18,983 - INFO - Start downloading data symbols ['VJC'] from CAFEF, start: 10/08/2024, end: 10/08/2024!
+2024-08-10 10:12:18,985 - INFO - Start downloading data symbols ['SAB'] from CAFEF, start: 10/08/2024, end: 10/08/2024!
+2024-08-10 10:12:18,988 - INFO - Start downloading data symbols ['MWG'] from CAFEF, start: 10/08/2024, end: 10/08/2024!
+2024-08-10 10:12:18,989 - INFO - Start downloading data symbols ['HPG'] from CAFEF, start: 10/08/2024, end: 10/08/2024!
+2024-08-10 10:12:18,993 - INFO - Start downloading data symbols ['GAS'] from CAFEF, start: 10/08/2024, end: 10/08/2024!
+2024-08-10 10:12:19,054 - INFO - Start downloading data symbols ['MSN', 'VNM'] from CAFEF, start: 10/08/2024, end: 10/08/2024!
+2024-08-10 10:12:19,169 - INFO - Download done at 10:12:19.169352
+2024-08-10 10:12:19,171 - INFO - Download done at 10:12:19.171964
+2024-08-10 10:12:19,173 - INFO - Download done at 10:12:19.173377
+2024-08-10 10:12:19,182 - INFO - Download done at 10:12:19.182324
+2024-08-10 10:12:19,183 - INFO - Download done at 10:12:19.183853
+2024-08-10 10:12:19,185 - INFO - Download done at 10:12:19.185238
+2024-08-10 10:12:19,186 - INFO - Download done at 10:12:19.186644
+2024-08-10 10:12:19,188 - INFO - Download done at 10:12:19.188000
+2024-08-10 10:12:19,189 - INFO - Download done at 10:12:19.189372
+2024-08-10 10:12:19,190 - INFO - Download done at 10:12:19.190713
+2024-08-10 10:12:19,192 - INFO - Download done at 10:12:19.192073
+2024-08-10 10:12:19,259 - INFO - Start downloading data symbols ['BCM', 'VHM', 'VRE', 'VIC'] from CAFEF, start: 10/08/2024, end: 10/08/2024!
+2024-08-10 10:12:19,282 - INFO - Download done at 10:12:19.282530
+2024-08-10 10:12:19,579 - INFO - Download done at 10:12:19.579316
+2024-08-10 10:12:19,825 - INFO - Start downloading data symbols ['CTG', 'SSB', 'MBB', 'TPB', 'VIB', 'HDB', 'BID', 'SHB', 'TCB', 'STB', 'VCB', 'VPB'] from CAFEF, start: 10/08/2024, end: 10/08/2024!
+2024-08-10 10:12:20,657 - INFO - Download done at 10:12:20.657181

@@ -1,0 +1,3 @@
+2024-08-17 21:54:56,848 - INFO - Start downloading data symbols ['CTG', 'SSB', 'MBB', 'TPB', 'VIB', 'HDB', 'BID', 'SHB', 'TCB', 'STB', 'VCB', 'VPB', 'SAB', 'GVR', 'POW', 'SSI', 'MSN', 'VNM', 'GAS', 'MWG', 'HPG', 'BVH', 'PLX', 'BCM', 'VHM', 'VRE', 'VIC', 'FPT', 'VJC'] from CAFEF, start: 01/01/2022, end: 16/08/2024!
+2024-08-17 21:55:01,768 - INFO - Start downloading data symbols ['CTG', 'SSB', 'MBB', 'TPB', 'VIB', 'HDB', 'BID', 'SHB', 'TCB', 'STB', 'VCB', 'VPB', 'SAB', 'GVR', 'POW', 'SSI', 'MSN', 'VNM', 'GAS', 'MWG', 'HPG', 'BVH', 'PLX', 'BCM', 'VHM', 'VRE', 'VIC', 'FPT', 'VJC'] from CAFEF, start: 01/01/2022, end: 16/08/2024!
+2024-08-17 21:55:07,406 - INFO - Download done at 21:55:07.406793
